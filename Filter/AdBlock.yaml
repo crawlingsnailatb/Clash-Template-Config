@@ -10,7 +10,7 @@ payload:
   - DOMAIN,wxsnsdy.wxs.qq.com
   - DOMAIN,wxsnsdythumb.wxs.qq.com
   - DOMAIN-KEYWORD,adguard
-   - DOMAIN-KEYWORD,admarvel
+  - DOMAIN-KEYWORD,admarvel
   - DOMAIN-KEYWORD,admaster
   - DOMAIN-KEYWORD,admaster
   - DOMAIN-KEYWORD,admdfs
